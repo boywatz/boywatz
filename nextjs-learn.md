@@ -1,4 +1,4 @@
-# initial Next.js project
+# Initial Next.js project
 
 ### create project with npx template.
  
@@ -22,3 +22,19 @@
   npm start
     Runs the built app in production mode.
 ```
+
+### add redux to Next.js project.
+
+```bash
+ npm install next-redux-wrapper react-redux redux redux-thunk --save
+
+ npm install redux-devtools-extension --save-dev
+```
+
+### git branch setup
+
+1. master
+2. release
+3. hotfix
+4. staging
+5. develop
