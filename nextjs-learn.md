@@ -7,7 +7,7 @@
  
  cd project-name
  
- bash npm run dev 
+ npm run dev 
 ```
 
 ### how to run project.
