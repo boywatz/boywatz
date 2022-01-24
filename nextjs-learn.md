@@ -26,7 +26,7 @@
 ### add redux to Next.js project.
 
 ```bash
- npm install next-redux-wrapper react-redux redux redux-thunk --save
+ npm i -s redux react-redux redux-thunk next-redux-wrapper
 
  npm install redux-devtools-extension --save-dev
 ```
