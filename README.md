@@ -1,4 +1,4 @@
-Hello, My name is Thanawat Setthapong
+Hello, My name is Thanawat Settapong
 
 Now, I work as a Software Engineer at Sansiri PLC. 
 
